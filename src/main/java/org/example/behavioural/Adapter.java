@@ -2,7 +2,7 @@ package org.example.behavioural;
 
 interface Bird{
     void fly();
-    
+
     void makeSound();
 }
 
